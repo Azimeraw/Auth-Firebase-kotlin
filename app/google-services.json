@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071786544756",
+    "project_id": "tedar-b1da8",
+    "storage_bucket": "tedar-b1da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071786544756:android:01eb69444c56fde552cb21",
+        "android_client_info": {
+          "package_name": "com.example.tedar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071786544756-8d5279c77euud33ur6uar8i7qhm97n5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrwVtSIaoY_9kOzV9ewT7wpWjYV0aM98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071786544756-8d5279c77euud33ur6uar8i7qhm97n5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auth-Firebase</string>
+    <string name="not_yet_registered_signup">Not yet registered? Signup</string>
+</resources>
